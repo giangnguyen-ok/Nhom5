@@ -38,5 +38,7 @@
         </tr>
     </table>
     <p>Giới thiệu web học tập, hãy <a href="https://www.vietjack.com/">click vào đây</a>.</p>
+    <p> Hình ảnh web học tập 
+    <image src="https://play.google.com/store/apps/details?id=com.jsmile.android.vietjack&hl=vi">. </p>
 </body>
 </html>
