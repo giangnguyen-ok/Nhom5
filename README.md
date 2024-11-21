@@ -37,6 +37,6 @@
             <td>Hùng Dinh</td>
         </tr>
     </table>
-    <p>Để biết ngày sinh của các thành viên, hãy <a href="ngaysinh.html">click vào đây</a>.</p>
+    <p>Giới thiệu web học tập, hãy <a href="https://www.vietjack.com/l">click vào đây</a>.</p>
 </body>
 </html>
