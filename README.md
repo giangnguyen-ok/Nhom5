@@ -39,6 +39,4 @@
     </table>
     <p>Giới thiệu web học tập, hãy <a href="https://www.vietjack.com/">click vào đây</a>.</p>
     <p> Hình ảnh web học tập 
-    <image src="unnamed.png">. </p>
-</body>
-</html>
+    <image src="unnamed.png">
