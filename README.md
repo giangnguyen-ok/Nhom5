@@ -30,7 +30,7 @@
             <td>Phú Quý</td>
         </tr>
         <tr>
-            <td>Trường Giang</td>
+            <td><a href="https://www.vietjack.com/">Trường Giang</a>.</p></td>
         </tr>
         <tr>
             <td>Hùng Dinh</td>
