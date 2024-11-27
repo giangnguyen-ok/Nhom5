@@ -37,6 +37,6 @@
         </tr>
     </table>
     <p>Giới thiệu web học tập, hãy <a href="https://www.vietjack.com/">click vào đây</a>.</p>
-      <p>Giới thiệu web học tập, hãy <a(https://giangnguyen-ok.github.io/nhom5-/)>click vào đây</a>.</p>
+      <p>Giới thiệu web học tập, hãy <a href="https://giangnguyen-ok.github.io/nhom5-/">click vào đây</a>.</p>
     <p> Hình ảnh web học tập 
     <image src="unnamed.png">
