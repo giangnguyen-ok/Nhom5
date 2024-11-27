@@ -30,13 +30,12 @@
             <td>Phú Quý</td>
         </tr>
         <tr>
-            <td>Trường Giang</td>
+        <p><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/">Trường Giang</a>.</p>
         </tr>
         <tr>
             <td>Hùng Dinh</td>
         </tr>
     </table>
     <p>Giới thiệu web học tập, hãy <a href="https://www.vietjack.com/">click vào đây</a>.</p>
-      <p>Giới thiệu web học tập, hãy <a href="https://giangnguyen-ok.github.io/nhom5-/">click vào đây</a>.</p>
     <p> Hình ảnh web học tập 
     <image src="unnamed.png">
