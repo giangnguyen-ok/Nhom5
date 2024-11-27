@@ -30,7 +30,7 @@
             <td>Phú Quý</td>
         </tr>
         <tr>
-            <td><a href="https://www.vietjack.com/">Trường Giang</a>.</p></td>
+            <td><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/">Trường Giang</a>.</p></td>
         </tr>
         <tr>
             <td>Hùng Dinh</td>
