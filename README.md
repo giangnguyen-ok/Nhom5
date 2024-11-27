@@ -30,7 +30,7 @@
             <td>Phú Quý</td>
         </tr>
         <tr>
-        <p><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/">Trường Giang</a>.</p>
+        <td></td><p><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/">Trường Giang</a>.</p></td>
         </tr>
         <tr>
             <td>Hùng Dinh</td>
