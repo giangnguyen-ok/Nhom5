@@ -21,19 +21,19 @@
             <th>Họ và tên</th>
         </tr>
         <tr>
-            <td>Ngọc Thịnh</td>
+            <td><a href="https://giangnguyen-ok.github.io/profilengocthinh.github.io/">Ngọc Thịnh</a>.</p></td>
         </tr>
         <tr>
-            <td>Hồng Ngọc</td>
+            <td><a href="https://giangnguyen-ok.github.io/profilehongngoc.github.io/">Hồng Ngọc</a>.</p></td>
         </tr>
         <tr>
-            <td>Phú Quý</td>
+            <td><a href="https://giangnguyen-ok.github.io/profilephuquy.github.io/">Phú Quý</a>.</p></td>
         </tr>
         <tr>
             <td><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/">Trường Giang</a>.</p></td>
         </tr>
         <tr>
-            <td>Hùng Dinh</td>
+            <td><a href="https://giangnguyen-ok.github.io/profilehungdinh.github.io/">Hùng Dinh</a>.</p></td>
         </tr>
     </table>
     <p>Giới thiệu web học tập, hãy <a href="https://www.vietjack.com/">click vào đây</a>.</p>
