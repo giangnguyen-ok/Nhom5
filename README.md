@@ -24,16 +24,16 @@
             <td><a href="https://giangnguyen-ok.github.io/profilengocthinh.github.io/">Ngọc Thịnh</a>.</td>
         </tr>
         <tr>
-            <td><a href="https://giangnguyen-ok.github.io/profilehongngoc.github.io/">Hồng Ngọc</a>.</p></td>
+            <td><a href="https://giangnguyen-ok.github.io/profilehongngoc.github.io/">Hồng Ngọc</a>.</td>
         </tr>
         <tr>
-            <td><a href="https://giangnguyen-ok.github.io/profilephuquy.github.io/">Phú Quý</a>.</p></td>
+            <td><a href="https://giangnguyen-ok.github.io/profilephuquy.github.io/">Phú Quý</a>.</td>
         </tr>
         <tr>
-            <td><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/">Trường Giang</a>.</p></td>
+            <td><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/">Trường Giang</a>.</td>
         </tr>
         <tr>
-            <td><a href="https://giangnguyen-ok.github.io/profilehungdinh.github.io/">Hùng Dinh</a>.</p></td>
+            <td><a href="https://giangnguyen-ok.github.io/profilehungdinh.github.io/">Hùng Dinh</a>.</td>
         </tr>
     </table>
     <p>Giới thiệu web học tập, hãy <a href="https://www.vietjack.com/">click vào đây</a>.</p>
