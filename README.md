@@ -21,7 +21,7 @@
             <th>Họ và tên</th>
         </tr>
         <tr>
-            <td><a href="https://giangnguyen-ok.github.io/profilengocthinh.github.io/">Ngọc Thịnh</a>.</p></td>
+            <td><a href="https://giangnguyen-ok.github.io/profilengocthinh.github.io/">Ngọc Thịnh</a>.</td>
         </tr>
         <tr>
             <td><a href="https://giangnguyen-ok.github.io/profilehongngoc.github.io/">Hồng Ngọc</a>.</p></td>
