@@ -13,6 +13,8 @@
             text-align: left;
         }
     </style>
+     <p> Slogan nhóm chúng mình
+    <image src="">
 </head>
 <body>
     <h1>Thành viên nhóm 5</h1>
