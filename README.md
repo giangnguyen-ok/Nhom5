@@ -1,20 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Thành viên nhóm 5</title>
-    <style>
-        /* CSS */
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-    </style>
-</head>
 <body>
     <h1>Thành viên nhóm 5</h1>
     <table>
