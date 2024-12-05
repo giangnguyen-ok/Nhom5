@@ -14,6 +14,7 @@
 </head>
 <body>
     <h1>Nhóm 5 Lớp 12 Lý</h1>
+    <p style="color:red;font-family:tahoma;font-size:15px;text-decoration:underline">
 </body>
 </html>
     <p> Xin chào mọi người, tụi mình là nhóm 5. Nhóm tụi mình gồm 5 thành viên: Trường Giang, Hồng Ngọc, Hùng Dinh, Ngọc Thịnh, Phú Quý. Hiện tại Phú Quý đang học đội tuyển nên tạm thời 4 đứa mình sẽ cùng làm thay phần của Phú Quý</p>
