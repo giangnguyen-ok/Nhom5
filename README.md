@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+<html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,7 +16,7 @@
 <body>
     <h1>Nhóm 5 Lớp 12 Lý</h1>
 </body>
-</head>
+</html>
     <p> Xin chào mọi người, tụi mình là nhóm 5. Nhóm tụi mình gồm 5 thành viên: Trường Giang, Hồng Ngọc, Hùng Dinh, Ngọc Thịnh, Phú Quý. Hiện tại Phú Quý đang học đội tuyển nên tạm thời 4 đứa mình sẽ cùng làm thay phần của Phú Quý</p>
      <image src="hinfh nhoms.jpg">
 <p> Slogan nhóm chúng mình
