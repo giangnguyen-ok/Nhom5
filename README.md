@@ -1,7 +1,7 @@
 <html>
 <head>
-    <title>Thành viên nhóm 5</title>
-    <style>
+<title>Thành viên nhóm 5</title>
+<style>
         /* CSS */
         table {
             border-collapse: collapse;
@@ -12,11 +12,10 @@
             padding: 8px;
             text-align: left;
         }
-    </style>
-
-    <p> Xin chào mọi người, tụi mình là nhóm 5. Nhóm tụi mình gồm 5 thành viên: Trường Giang, Hồng Ngọc, Hùng Dinh, Ngọc Thịnh, Phú Quý. Hiện tại Phú Quý đang học đội tuyển nên tạm thời 4 đứa mình sẽ cùng làm thay phần của Phú Quý</p>
+</style>
+<p> Xin chào mọi người, tụi mình là nhóm 5. Nhóm tụi mình gồm 5 thành viên: Trường Giang, Hồng Ngọc, Hùng Dinh, Ngọc Thịnh, Phú Quý. Hiện tại Phú Quý đang học đội tuyển nên tạm thời 4 đứa mình sẽ cùng làm thay phần của Phú Quý</p>
      <image src="hinfh nhoms.jpg">
-    <p> Slogan nhóm chúng mình
+<p> Slogan nhóm chúng mình
     <image src="z6098511130906_41c8d16fc0220dc4c1cbf0771a0de042.jpg">
 </head>
 <body>
