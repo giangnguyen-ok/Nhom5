@@ -5,7 +5,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nhóm 5 Lớp 12 Lý</title>
     <style>
         h1 {
             color: red;
