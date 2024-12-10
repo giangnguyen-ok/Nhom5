@@ -145,20 +145,70 @@
 </head>
 <body>
 
-    <!-- Container chính chứa chữ và hình ảnh -->
+   <!-- Container chứa các phần tử chữ và hình ảnh -->
     <div class="container">
-        <!-- Phần chữ bên trái -->
-        <div class="text">
-            <h1>Chào mừng đến với trang web của chúng tôi</h1>
-            <p>Xin chào mọi người, tụi mình là nhóm 5. Nhóm tụi mình gồm 5 thành viên: Trường Giang, Hồng Ngọc, Hùng Dinh, Ngọc Thịnh, Phú Quý. Hiện tại Phú Quý đang học đội tuyển nên tạm thời 4 đứa mình sẽ cùng làm thay phần của Phú Quý</p>
+        <!-- Lần 1: Chữ trái, ảnh phải -->
+        <div class="row">
+            <div class="text">
+                <h1>Chào mừng đến với trang web của chị em chúng mình</h1>
+                <p> Xin chào mọi người, tụi mình là nhóm 5. Nhóm tụi mình gồm 5 thành viên: Trường Giang, Hồng Ngọc, Hùng Dinh, Ngọc Thịnh, Phú Quý. Hiện tại Phú Quý đang học đội tuyển nên tạm thời 4 đứa mình sẽ cùng làm thay phần của Phú Quý</p>
+            </div>
+            <div class="image">
+                <image src="hinfh nhoms.jpg">
+            </div>
         </div>
 
-        <!-- Phần hình ảnh bên phải -->
-        <div class="image">
-            <image src="hinfh nhoms.jpg">
+        <!-- Lần 2: Chữ phải, ảnh trái -->
+        <div class="row reverse">
+            <div class="text">
+                <h1>Slogan nhóm chúng mình</h1>
+                <p>Chúng mình rất tâm đắc với slogan này, nó đề cao tầm quan trọng của thái độ mỗi người</p>
+            </div>
+            <div class="image">
+                <image src="z6098511130906_41c8d16fc0220dc4c1cbf0771a0de042.jpg">
+            </div>
+        </div>
+
+        <!-- Lần 3: Chữ trái, ảnh phải -->
+        <div class="row">
+            <div class="text">
+                <h1>Thành viên nhóm 5</h1>
+                <p>Nhấn vào tên từng người để tìm hiểu kĩ hơn về người đó nhé.</p>
+            </div>
+             <table>
+        <tr>
+            <th>Họ và tên</th>
+        </tr>
+        <tr>
+            <td><a href="https://giangnguyen-ok.github.io/profilengocthinh.github.io/">Ngọc Thịnh</a></p>.</td>
+        </tr>
+        <tr>
+            <td><a href="https://giangnguyen-ok.github.io/profilehongngoc.github.io/">Hồng Ngọc</a></p>.</td>
+        </tr>
+        <tr>
+            <td><a href="https://giangnguyen-ok.github.io/profilephuquy.github.io/">Phú Quý</a></p>.</td>
+        </tr>
+        <tr>
+            <td><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/">Trường Giang</a></p>.</td>
+        </tr>
+        <tr>
+            <td><a href="https://giangnguyen-ok.github.io/profilehungdinh.github.io/">Hùng Dinh</a></p>.</td>
+        </tr>
+    </table>
+        </div>
+
+        <!-- Lần 4: Chữ phải, ảnh trái -->
+        <div class="row reverse">
+            <div class="text">
+                <h1>Giới thiệu web học tập</h1>
+                 <p>Giới thiệu web học tập, hãy <a href="https://www.vietjack.com/">click vào đây</a>.</p>
+            </div>
+            <div class="image">
+                <image src="unnamed.png">
+            </div>
         </div>
     </div>
-
+ <p>Giới thiệu bản thân các bạn cho tụi mình biết với nhé hãy <a href="https://giangnguyen-ok.github.io/gioithieubanthan/">click vào đây</a>.</p>
 </body>
 </html>
 
