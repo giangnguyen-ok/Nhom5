@@ -89,6 +89,80 @@
 </html>
 
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chữ bên trái, Hình ảnh bên phải</title>
+
+    <style>
+        /* Thiết lập nền trang màu xanh dương nhạt */
+        body {
+            background-color: #a0c4ff; /* Màu xanh dương nhạt */
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Container chính chứa chữ và hình ảnh */
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 100vh; /* Để chiếm toàn bộ chiều cao màn hình */
+            padding: 0 20px;
+        }
+
+        /* Phần chữ bên trái */
+        .text {
+            flex: 1; /* Phần chữ chiếm không gian còn lại */
+            padding: 20px;
+            color: #333;
+        }
+
+        /* Phần hình ảnh bên phải */
+        .image {
+            flex: 1; /* Phần hình ảnh chiếm không gian còn lại */
+            text-align: right; /* Căn phải hình ảnh */
+        }
+
+        /* Thiết lập kích thước và tạo một chút hiệu ứng cho hình ảnh */
+        .image img {
+            max-width: 100%; /* Hình ảnh sẽ chiếm hết chiều rộng của container */
+            height: auto;
+            border-radius: 8px; /* Tạo góc bo tròn cho hình ảnh */
+        }
+
+        /* Thiết lập chữ trong phần .text */
+        .text h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .text p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Container chính chứa chữ và hình ảnh -->
+    <div class="container">
+        <!-- Phần chữ bên trái -->
+        <div class="text">
+            <h1>Chào mừng đến với trang web của chúng tôi</h1>
+            <p>Xin chào mọi người, tụi mình là nhóm 5. Nhóm tụi mình gồm 5 thành viên: Trường Giang, Hồng Ngọc, Hùng Dinh, Ngọc Thịnh, Phú Quý. Hiện tại Phú Quý đang học đội tuyển nên tạm thời 4 đứa mình sẽ cùng làm thay phần của Phú Quý</p>
+        </div>
+
+        <!-- Phần hình ảnh bên phải -->
+        <div class="image">
+            <image src="hinfh nhoms.jpg">
+        </div>
+    </div>
+
+</body>
+</html>
+
+
 </head>
 <body>
     <h1>Nhóm 5 Lớp 12 Lý</h1>
