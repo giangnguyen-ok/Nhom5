@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Profile Nhóm 5</title>
     <style>
          .rainbow-text {
             color: white; /* Màu chữ ban đầu */
