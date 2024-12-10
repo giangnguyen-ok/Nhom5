@@ -80,8 +80,8 @@
     <!-- Pano đầu trang -->
     <header class="header-banner">
         <div class="banner-content">
-            <h1>Chào mừng đến với Website</h1>
-            <p>Nơi hội tụ những điều tuyệt vời!</p>
+            <h1>Chào mừng đến với Website của nhóm 5 lớp 12 Lý</h1>
+            <p>Nơi để chúng mình chia sẻ về bản thân</p>
         </div>
     </header>
 
