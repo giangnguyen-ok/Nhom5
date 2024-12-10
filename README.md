@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
     <style>
          .rainbow-text {
             color: white; /* Màu chữ ban đầu */
