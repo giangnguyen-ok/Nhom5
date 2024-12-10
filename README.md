@@ -1,6 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>Profile Nhóm 5</title>
+    <style>
+        .rainbow-text {
+            color: white;
+            -webkit-text-stroke: 1px black;
+            animation: rainbow 3s infinite;
+        }
+
+        @keyframes rainbow {
+            100% {
+                filter: hue-rotate(360deg);
+            }
+        }
+    </style>
+</head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pano Đầu Trang</title>
