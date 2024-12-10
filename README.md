@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pano Đầu Trang</title>
+
     <!-- Thêm font chữ Poppins từ Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 
-    <!-- CSS đặt trong thẻ <style> -->
     <style>
         /* Reset cơ bản */
         body {
@@ -25,6 +25,7 @@
             text-align: center;
             color: #4a4a4a; /* Màu chữ xám đậm */
             position: relative;
+            overflow: hidden;
         }
 
         /* Nội dung trong pano */
@@ -33,6 +34,7 @@
             margin: 0;
             font-weight: 700;
             text-transform: uppercase; /* Viết hoa toàn bộ */
+            animation: slideIn 3s ease-in-out infinite; /* Thêm hiệu ứng chuyển động */
         }
 
         .banner-content p {
@@ -40,6 +42,36 @@
             margin-top: 10px;
             font-style: italic; /* Chữ in nghiêng */
             color: #ffffff; /* Màu chữ trắng */
+            animation: fadeIn 5s ease-in-out infinite; /* Thêm hiệu ứng chuyển động cho đoạn văn */
+        }
+
+        /* Hiệu ứng chuyển động cho tiêu đề */
+        @keyframes slideIn {
+            0% {
+                transform: translateX(-100%);
+                opacity: 0;
+            }
+            50% {
+                transform: translateX(0);
+                opacity: 1;
+            }
+            100% {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+        }
+
+        /* Hiệu ứng chuyển động cho đoạn văn */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            50% {
+                opacity: 1;
+            }
+            100% {
+                opacity: 0;
+            }
         }
     </style>
 </head>
@@ -48,10 +80,13 @@
     <!-- Pano đầu trang -->
     <header class="header-banner">
         <div class="banner-content">
-            <h1>Chào mừng đến với Website của Nhóm 5 lớp 12 Lý</h1>
+            <h1>Chào mừng đến với Website</h1>
             <p>Nơi hội tụ những điều tuyệt vời!</p>
         </div>
     </header>
+
+</body>
+</html>
 
 </body>
 </html>
