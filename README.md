@@ -13,7 +13,7 @@
                 filter: hue-rotate(360deg);
             }
         }
-        {
+       body {
             font-family: Arial, sans-serif;
             background-color: #007bff; /* Màu xanh dương */
         }
