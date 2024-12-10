@@ -2,17 +2,6 @@
 <html lang="en">
 <head>
     <style>
-        .rainbow-text {
-            color: white;
-            -webkit-text-stroke: 1px black;
-            animation: rainbow 3s infinite;
-        }
-
-        @keyframes rainbow {
-            100% {
-                filter: hue-rotate(360deg);
-            }
-        }
        body {
             font-family: Arial, sans-serif;
             background-color: #007bff; /* Màu xanh dương */
