@@ -1,21 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Profile Nhóm 5</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #007bff; /* Màu xanh dương */
-        }
-
-        .rainbow-text {
-            color: white; /* Màu chữ ban đầu */
-            -webkit-text-stroke: 1px black; /* Viền chữ màu đen */
-            animation: rainbow 3s infinite;
-        }
-    </style>
-</head>
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pano Đầu Trang</title>
