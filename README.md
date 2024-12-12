@@ -240,7 +240,7 @@
             <div class="text">
                 <h1>Giới thiệu web học tập</h1>
                 <p>Giới thiệu web học tập, hãy <a href="https://www.vietjack.com/">click vào đây</a>.</p>
-                <p>Giới thiệu link canva , hãy <a href="[https://www.vietjack.com/](https://www.canva.com/design/DAGWSFUgBIc/2qh19OgTTBR9hlcWDLbu7A/edit?utm_content=DAGWSFUgBIc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">click vào đây</a>.</p>
+                <p>Giới thiệu link canva , hãy <a href="https://www.canva.com/design/DAGWSFUgBIc/2qh19OgTTBR9hlcWDLbu7A/edit?utm_content=DAGWSFUgBIc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">click vào đây</a>.</p>
             </div>
             <div class="image">
                 <img src="unnamed.png" alt="Giới thiệu web học tập">
