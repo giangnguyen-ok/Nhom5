@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head> 
     <style>
@@ -250,4 +250,3 @@
 
     <p>Giới thiệu bản thân các bạn cho tụi mình biết với nhé hãy <a href="https://giangnguyen-ok.github.io/gioithieubanthan/">click vào đây</a>.</p>
 </body>
-</html>
