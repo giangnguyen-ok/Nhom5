@@ -249,7 +249,6 @@
     </div>
 
     <p>Giới thiệu bản thân các bạn cho tụi mình biết với nhé hãy <a href="https://giangnguyen-ok.github.io/gioithieubanthan/">click vào đây</a>.</p>
-</body>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -261,8 +260,13 @@
 <body>
     <header>
         <div class="container">
-            <h1>🌸 Chào Xuân Mới 2025 🌸</h1>
+            <h1 class="sparkling-text">🌸 Chào Xuân Mới 2025 🌸</h1>
             <p>Xuân về mang đến niềm vui và hạnh phúc!</p>
+            <!-- Nhạc Tết -->
+            <audio controls autoplay loop>
+                <source src="mung-xuan-long-phung-sum-vay.mp3" type="audio/mpeg">
+                Trình duyệt của bạn không hỗ trợ phát nhạc.
+            </audio>
         </div>
     </header>
 
