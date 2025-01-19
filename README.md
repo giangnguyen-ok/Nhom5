@@ -11,39 +11,7 @@
 </head>
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pano Đầu Trang</title>
-
-    <!-- Thêm font chữ Poppins từ Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-
-    <style>
-        /* Reset cơ bản */
-        body {
-            margin: 0;
-            font-family: 'Poppins', sans-serif; /* Đổi font chữ sang Poppins */
-        }
-
-        /* Pano đầu trang */
-        .header-banner {
-            background-color: #ff99cc; /* Màu hồng pastel */
-            height: 300px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            color: #4a4a4a; /* Màu chữ xám đậm */
-            position: relative;
-            overflow: hidden;
-        }
-
-        /* Nội dung trong pano */
-        .banner-content h1 {
-            font-size: 3rem; /* Đổi kích thước chữ */
-            margin: 0;
-            font-weight: 700;
-            text-transform: uppercase; /* Viết hoa toàn bộ */
-            animation: slideIn 3s ease-in-out infinite; /* Thêm hiệu ứng chuyển động */
+    <meta name="viewport" content="width=device-w6s ease-in-out infinite; /* Thêm hiệu ứng chuyển động */
         }
 
         .banner-content p {
@@ -51,7 +19,7 @@
             margin-top: 10px;
             font-style: italic; /* Chữ in nghiêng */
             color: #ffffff; /* Màu chữ trắng */
-            animation: fadeIn 5s ease-in-out infinite; /* Thêm hiệu ứng chuyển động cho đoạn văn */
+            animation: fadeIn 10s ease-in-out infinite; /* Thêm hiệu ứng chuyển động cho đoạn văn */
         }
 
         /* Hiệu ứng chuyển động cho tiêu đề */
