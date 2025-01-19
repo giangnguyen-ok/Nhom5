@@ -265,7 +265,29 @@
             <p>Xuân về mang đến niềm vui và hạnh phúc!</p>
         </div>
     </header>
+/* Hiệu ứng chữ chạy ngang */
+.moving-text {
+    font-size: 2.5rem;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #8b00ff);
+    -webkit-background-clip: text;
+    color: transparent;
+    white-space: nowrap; /* Đảm bảo nội dung không xuống dòng */
+    overflow: hidden;
+    display: inline-block;
+    animation: move-text 10s linear infinite;
+    position: relative;
+}
 
+/* Hiệu ứng chuyển động ngang */
+@keyframes move-text {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
     <nav>
         <ul>
             <li><a href="#about">Giới Thiệu</a></li>
