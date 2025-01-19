@@ -249,62 +249,62 @@
     </div>
 
     <p>Giới thiệu bản thân các bạn cho tụi mình biết với nhé hãy <a href="https://giangnguyen-ok.github.io/gioithieubanthan/">click vào đây</a>.</p>
-</body>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chào Xuân Mới</title>
+    <title>Tết Nguyên Đán 2025</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>🌸 Chào Xuân Mới 2025 🌸</h1>
-            <p>Xuân về mang đến niềm vui và hạnh phúc!</p>
+    <!-- Header -->
+    <header class="main-header">
+        <div class="header-content">
+            <h1 class="moving-text">🌸 Chúc Mừng Năm Mới 2025 🌸</h1>
+            <p class="header-subtext">Một năm mới an khang, thịnh vượng, và đầy may mắn!</p>
+            <audio controls autoplay loop>
+                <source src="audio/mung-xuan-long-phung-sum-vay.mp3" type="audio/mpeg">
+                Trình duyệt của bạn không hỗ trợ phát nhạc.
+            </audio>
         </div>
     </header>
 
-    <nav>
+    <!-- Banner -->
+    <section class="banner">
+        <img src="images/tet_banner.jpg" alt="Banner Tết">
+    </section>
+
+    <!-- Câu chúc Tết -->
+    <section id="wishes" class="section">
+        <h2 class="section-title">🎉 Lời Chúc Tết 2025</h2>
+        <div class="wishes-container">
+            <p class="wish">🌸 "An khang thịnh vượng, vạn sự như ý!" 🌸</p>
+            <p class="wish">🍀 "Sức khỏe dồi dào, gia đình hạnh phúc!" 🍀</p>
+            <p class="wish">🌟 "Tài lộc phát đạt, công danh rạng rỡ!" 🌟</p>
+        </div>
+    </section>
+
+    <!-- Phong Tục Tết -->
+    <section id="traditions" class="section">
+        <h2 class="section-title">🎏 Phong Tục Tết Cổ Truyền</h2>
         <ul>
-            <li><a href="#about">Giới Thiệu</a></li>
-            <li><a href="#wishes">Lời Chúc Tết</a></li>
-            <li><a href="#traditions">Phong Tục Tết</a></li>
-            <li><a href="#contact">Liên Hệ</a></li>
+            <li>Gói bánh chưng, bánh tét đón Tết.</li>
+            <li>Trang trí hoa mai, hoa đào, cây quất.</li>
+            <li>Thăm bà con, bạn bè và chúc Tết đầu năm.</li>
+            <li>Thờ cúng tổ tiên, cầu may mắn trong năm mới.</li>
         </ul>
-    </nav>
+    </section>
 
-    <main>
-        <section id="about" class="section">
-            <h2>🌟 Về Tết Nguyên Đán</h2>
-            <p class="highlight">
-                Tết Nguyên Đán là dịp lễ truyền thống lớn nhất của người Việt, đánh dấu thời khắc chuyển giao năm cũ và năm mới.
-            </p>
-            <p>Thời gian này là lúc mọi người sum vầy bên gia đình, tưởng nhớ tổ tiên, và gửi những lời chúc tốt đẹp nhất đến người thân yêu.</p>
-        </section>
+    <!-- Liên kết tới GitHub -->
+    <section id="github-link" class="section">
+        <h2 class="section-title">🔗 Liên Kết tới GitHub</h2>
+        <p>Để tham khảo thêm, bạn có thể truy cập trang web của chúng tôi trên GitHub:</p>
+        <a href="https://github.com/username/repository-name" target="_blank">Trang Web Tết 2025 trên GitHub</a>
+    </section>
 
-        <section id="wishes" class="section">
-            <h2>💌 Lời Chúc Tết Hay Nhất</h2>
-            <div class="wish-box">
-                <p id="p1">✨ Chúc năm mới sức khỏe dồi dào, vạn sự như ý!</p>
-                <p class="highlight">🍀 Chúc bạn và gia đình an khang, thịnh vượng, hạnh phúc viên mãn.</p>
-                <p class="highlight">🎉 Năm mới đến, chúc phát tài phát lộc, công danh rạng rỡ!</p>
-            </div>
-        </section>
-
-        <section id="traditions" class="section">
-            <h2>🏮 Phong Tục Tết</h2>
-            <ul>
-                <li>Gói bánh chưng, bánh tét.</li>
-                <li>Trang trí nhà cửa bằng hoa mai, hoa đào.</li>
-                <li>Chúc Tết và lì xì trẻ nhỏ.</li>
-                <li>Thờ cúng tổ tiên, cầu may mắn.</li>
-            </ul>
-        </section>
-    </main>
-
-    <footer id="contact">
+    <!-- Footer -->
+    <footer>
         <p>📞 Liên hệ: <strong>0123 456 789</strong> | ✉️ Email: <strong>tetnguyendan@example.com</strong></p>
         <p>© 2025 - Thiết kế bởi bạn.</p>
     </footer>
