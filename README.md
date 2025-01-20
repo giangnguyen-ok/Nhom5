@@ -1,6 +1,10 @@
 <html lang="en">
 <head> 
     <style>
+h2 {
+            display: none;
+            }
+
          .rainbow-text {
             color: white; /* Màu chữ ban đầu */
             -webkit-text-stroke: 1px black; /* Viền chữ màu đen */
