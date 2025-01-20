@@ -216,21 +216,22 @@
                     <tr>
                         <th>Họ và tên</th>
                     </tr>
-                    <tr>
-                        <td><a href="https://giangnguyen-ok.github.io/profilengocthinh.github.io/">Ngọc Thịnh</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://giangnguyen-ok.github.io/profilehongngoc.github.io/">Hồng Ngọc</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://giangnguyen-ok.github.io/profilephuquy.github.io/">Phú Quý</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/">Trường Giang</a></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://giangnguyen-ok.github.io/profilehungdinh.github.io/">Hùng Dinh</a></td>
-                    </tr>
+              <tr>
+    <td><a href="https://giangnguyen-ok.github.io/profilengocthinh.github.io/" title="Xem hồ sơ Ngọc Thịnh">Ngọc Thịnh</a></td>
+</tr>
+<tr>
+    <td><a href="https://giangnguyen-ok.github.io/profilehongngoc.github.io/" title="Xem hồ sơ Hồng Ngọc">Hồng Ngọc</a></td>
+</tr>
+<tr>
+    <td><a href="https://giangnguyen-ok.github.io/profilephuquy.github.io/" title="Xem hồ sơ Phú Quý">Phú Quý</a></td>
+</tr>
+<tr>
+    <td><a href="https://giangnguyen-ok.github.io/profilegiang.github.io/" title="Xem hồ sơ Trường Giang">Trường Giang</a></td>
+</tr>
+<tr>
+    <td><a href="https://giangnguyen-ok.github.io/profilehungdinh.github.io/" title="Xem hồ sơ Hùng Dinh">Hùng Dinh</a></td>
+</tr>
+
                 </table>
             </div>
         </div>
