@@ -40,7 +40,7 @@
             margin-top: 10px;
             font-style: italic; /* Chữ in nghiêng */
             color: #ffffff; /* Màu chữ trắng */
-            animation: fadeIn 5s ease-in-out infinite; /* Thêm hiệu ứng chuyển động */
+            animation: fadeIn 5s ease-in-out infinite; /* Thêm hiệu ứng chuyển động cho đoạn văn */
         }
 
         /* Hiệu ứng chuyển động cho tiêu đề */
@@ -71,6 +71,13 @@
                 opacity: 0;
             }
         }
+
+        /* Hiệu ứng rainbow-text */
+        .rainbow-text {
+            color: white; /* Màu chữ ban đầu */
+            -webkit-text-stroke: 1px black; /* Viền chữ màu đen */
+            animation: rainbow 3s infinite;
+        }
     </style>
 </head>
 <body>
@@ -78,7 +85,7 @@
     <header class="header-banner">
         <div class="banner-content">
             <h1>Chào mừng đến với Website của nhóm 5 lớp 12 Lý</h1>
-            <p>Nơi để chúng mình chia sẻ về bản thân</p>
+            <p class="rainbow-text">Nơi để chúng mình chia sẻ về bản thân</p>
         </div>
     </header>
 </body>
