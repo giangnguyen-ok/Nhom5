@@ -1,93 +1,74 @@
+
 <html lang="en">
-<head>
+‹head>
 ‹style>
-•rainbow-text {
-color: white; /* Màu chữ ban đầu */
--webkit-text-stroke: 1px black; /* Viền chữ màu đen */
-animation: rainbow 3s infinite;
+.rainbow-text { color: white; /* Màu chữ ban đầu */
+- webkit-text-stroke: 1px black; /* Viền chữ màu đen */ animation: rainbow 3s infinite;
 }
 </style>
-</head> <head>
+</ head>
+ <head>
 ‹meta charset="UTF-8">
-<meta name="viewport"
-content="width=device-width, initial-scale=1.0">
-‹ title>Pano Đầu Trang</title>
-<!-- Thêm font chữ Poppins từ
-Google Fonts -->
-<link
-href="https://fonts.googleapis.com
-/css2? family=Poppins:wght@400;700&displa y=swap" rel="stylesheet">
-‹style>
+‹meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Pano Đầu Trang</title >
+<! -- Thêm font chữ Poppins từ Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet”>
+<style>
 /* Reset cơ bản */
 body {
-margin: 0; font-family:
-'Poppins', sans-serif; /* Đổi font chữ sang Poppins */
+margin: 0;
+font-family: 'Poppins', sans-serif; /* Đổi font chữ sang Poppins */
 
-}
 /* Pano đầu trang */
-•header-banner { background-color:
-#fF99cc; /* Màu hồng pastel */
-height: 300px; display: flex;
-justify-content:
-center;
-chữ xám đậm */
-align-items: center; text-align: center;
-color: #4a4a4a; /* Màu
-position: relative; overflow: hidden;
-
+•header-banner {
+background-color: #ff99cc; /* Màu hồng pastel */ height: 300px; display: flex;
+justify-content: center; align-items: center; text-align: center;
+color: #4a4a4a; /* Màu chữ xám đậm */ position: relative;
+overflow: hidden;
 }
+
 /* Nội dung trong pano */
-•banner-content h1 { font-size: 3rem; /*
-Đổi kích thước chữ */
-margin: 0; font-weight: 700;
-text-transform:
-uppercase; /* Viết hoa toàn bộ */
-animation: slideIn 3s
-ease-in-out infinite; /* Thêm hiệu ứng chuyển động */
-｝
-•banner-content p {
-font-size: 1.2rem; margin-top: 10px; font-style: italic; /*Chữ in nghiêng */
+• banner-content h1 {
+font-size: 3rem; /* Đổi kích thước chữ */ margin: 0;
+font-weight: 700;
+text-transform: uppercase: /* Viết hoa toàn bô */ animation: slideIn 3s ease-in-out infinite; /* Thêm hiệu ứng chuyển động */
+}
 
-color: #ffffff; /* Màu
-chữ trắng */ animation: fadeIn 5s
-ease-in-out infinite; /* Thêm hiệu ứng chuyển động cho đoạn văn */
-}
-/* Hiệu ứng chuyển động
-cho tiêu đề */
+.banner-content p { font-size: 1.2rem;
+margin-top: 10px;
+font-style: italic; /* Chữ in nghiêng */ color: #ffffff; /* Màu chữ trắng */
+animation: fadeIn 5s ease-in-out infinite; /* Thêm hiệu ứng chuyển động cho đoạn văn
+/* Hiệu ứng chuyển động cho tiêu đề */
 @keyframes slideIn {
-0% {
-translateX(-100%) ;
-}
-50% {
-transform:
+0%
+transform: translateX(-100%) ; 
 opacity: 0;
-transform:
-translateX(0);
 }
-100% {
+50% { transform: translateX(0); 
 opacity: 1;
-transform:
-translateX(100%) ; opacity: 0;
-/* Hiệu ứng chuyển động
-cho đoạn văn */
+}
+100% { transform: translateX(100%);
+opacity: 0;
+｝
+｝
+/* Hiệu ứng chuyển động cho đoạn văn */
 @keyframes fadeIn {
 0% { opacity: 0;
-}
-50% < opacity: 1;
+ }
+50% { opacity: 1;
 }
 100% { opacity: 0;
-｝
+}
+}
 </style>
-</head> ‹body>
-<! -- Pano đầu trang --> <header class="header-banner" > <div class="banner-
-content" > <h1> Chào mừng đến với
-Website của nhóm 5 lớp 12 Lý</h1>
-<p>Nơi để chúng mình
-chia sẻ về bản thân</p>
-</div›
-</header>
-</body>
- </html>
+</head> <body>
+<!—Pano đầu trang -->
+<header class="header-banner">
+‹div class="banner-content" >
+<h1>Chào mừng đến với Website của nhóm 5 lớp 12 Lý</h1> <p>Nơi để chúng mình chia sẻ về bản thân</p>
+</div>
+</header >
+</body> 
+</html/>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
