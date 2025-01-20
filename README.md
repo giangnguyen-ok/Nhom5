@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -6,9 +6,6 @@
     <title>Trang Web Nhóm 5</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
     <style>
-         h1 {
-            display: none;
-            }
         body {
             margin: 0;
             font-family: 'Poppins', sans-serif;
