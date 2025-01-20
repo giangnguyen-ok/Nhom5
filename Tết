@@ -1,1 +1,76 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hiệu ứng chuyển động</title>
+    <style>
+        /* Định dạng cho banner */
+        .banner {
+            background-color: #ff5733; /* Màu nền cam đậm */
+            color: #ffffff; /* Màu chữ trắng */
+            text-align: center;
+            padding: 20px;
+            overflow: hidden;
+            position: relative;
+        }
 
+        /* Hiệu ứng chuyển động cho tiêu đề */
+        .banner-title {
+            font-size: 2rem;
+            font-weight: bold;
+            margin: 0;
+            animation: slideIn 6s ease-in-out infinite;
+        }
+
+        /* Đoạn văn trong banner */
+        .banner-content p {
+            font-size: 1.2rem;
+            margin-top: 10px;
+            font-style: italic; /* Chữ in nghiêng */
+            color: #ffffff; /* Màu chữ trắng */
+            animation: fadeIn 10s ease-in-out infinite;
+        }
+
+        /* Hiệu ứng chuyển động cho tiêu đề */
+        @keyframes slideIn {
+            0% {
+                transform: translateX(-100%);
+                opacity: 0;
+            }
+            50% {
+                transform: translateX(0);
+                opacity: 1;
+            }
+            100% {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+        }
+
+        /* Hiệu ứng chuyển động cho đoạn văn */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            50% {
+                opacity: 1;
+            }
+            100% {
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <!-- Tiêu đề với hiệu ứng slideIn -->
+        <h1 class="banner-title">Chào mừng bạn đến với mùa Xuân!</h1>
+
+        <!-- Nội dung với hiệu ứng fadeIn -->
+        <div class="banner-content">
+            <p>Hãy đón chào một năm mới tràn đầy niềm vui và hạnh phúc!</p>
+        </div>
+    </div>
+</body>
+</html>
