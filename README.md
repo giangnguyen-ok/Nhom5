@@ -1,23 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head> 
-    <style>
-         .rainbow-text {
-            color: white; /* Màu chữ ban đầu */
-            -webkit-text-stroke: 1px black; /* Viền chữ màu đen */
-            animation: rainbow 3s infinite;
-        }
-    </style>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-w6s ease-in-out infinite; /* Thêm hiệu ứng chuyển động */
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website của nhóm 5 lớp 12 Lý</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #282c34;
+            color: white;
         }
+
+        /* Định dạng banner */
+        .header-banner {
+            background-color: #1e90ff;
+            padding: 50px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .banner-content h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            color: white; /* Màu chữ */
+            -webkit-text-stroke: 1px black; /* Viền chữ màu đen */
+            animation: slideIn 6s ease-in-out infinite; /* Hiệu ứng trượt chữ */
+        }
+
         .banner-content p {
             font-size: 1.2rem;
             margin-top: 10px;
             font-style: italic; /* Chữ in nghiêng */
             color: #ffffff; /* Màu chữ trắng */
-            animation: fadeIn 10s ease-in-out infinite; /* Thêm hiệu ứng chuyển động cho đoạn văn */
+            animation: fadeIn 8s ease-in-out infinite; /* Hiệu ứng mờ chữ */
         }
+
         /* Hiệu ứng chuyển động cho tiêu đề */
         @keyframes slideIn {
             0% {
@@ -33,7 +53,8 @@
                 opacity: 0;
             }
         }
-        /* Hiệu ứng chuyển động cho đoạn văn */
+
+        /* Hiệu ứng mờ dần cho đoạn văn */
         @keyframes fadeIn {
             0% {
                 opacity: 0;
@@ -48,10 +69,15 @@
     </style>
 </head>
 <body>
-    <!-- Pano đầu trang -->
+    <!-- Banner đầu trang -->
     <header class="header-banner">
         <div class="banner-content">
             <h1>Chào mừng đến với Website của nhóm 5 lớp 12 Lý</h1>
+            <p>Đây là nơi bạn có thể tìm thấy thông tin và tài liệu bổ ích.</p>
+        </div>
+    </header>
+</body>
+</html>
             <p>Nơi để chúng mình chia sẻ về bản thân</p>
         </div>
     </header>
