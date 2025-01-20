@@ -1,11 +1,22 @@
-<!DOCTYPE html>
+
 <html lang="en">
+<head> 
+    <style>
+         .rainbow-text {
+            color: white; /* Màu chữ ban đầu */
+            -webkit-text-stroke: 1px black; /* Viền chữ màu đen */
+            animation: rainbow 3s infinite;
+        }
+    </style>
+</head>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pano Đầu Trang</title>
+
     <!-- Thêm font chữ Poppins từ Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+
     <style>
         /* Reset cơ bản */
         body {
@@ -71,29 +82,27 @@
                 opacity: 0;
             }
         }
-
-        /* Hiệu ứng rainbow-text */
-        .rainbow-text {
-            color: white; /* Màu chữ ban đầu */
-            -webkit-text-stroke: 1px black; /* Viền chữ màu đen */
-            animation: rainbow 3s infinite;
-        }
     </style>
 </head>
 <body>
+
     <!-- Pano đầu trang -->
     <header class="header-banner">
         <div class="banner-content">
             <h1>Chào mừng đến với Website của nhóm 5 lớp 12 Lý</h1>
-            <p class="rainbow-text">Nơi để chúng mình chia sẻ về bản thân</p>
+            <p>Nơi để chúng mình chia sẻ về bản thân</p>
         </div>
     </header>
+
 </body>
 </html>
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chữ bên trái, Hình ảnh bên phải</title>
+
     <style>
         /* Thiết lập nền trang màu xanh dương nhạt */
         body {
@@ -241,63 +250,3 @@
 
     <p>Giới thiệu bản thân các bạn cho tụi mình biết với nhé hãy <a href="https://giangnguyen-ok.github.io/gioithieubanthan/">click vào đây</a>.</p>
 </body>
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chào Xuân Mới</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <div class="container">
-            <h1>🌸 Chào Xuân Mới 2025 🌸</h1>
-            <p>Xuân về mang đến niềm vui và hạnh phúc!</p>
-        </div>
-    </header>
-
-    <nav>
-        <ul>
-            <li><a href="#about">Giới Thiệu</a></li>
-            <li><a href="#wishes">Lời Chúc Tết</a></li>
-            <li><a href="#traditions">Phong Tục Tết</a></li>
-            <li><a href="#contact">Liên Hệ</a></li>
-        </ul>
-    </nav>
-
-    <main>
-        <section id="about" class="section">
-            <h2>🌟 Về Tết Nguyên Đán</h2>
-            <p class="highlight">
-                Tết Nguyên Đán là dịp lễ truyền thống lớn nhất của người Việt, đánh dấu thời khắc chuyển giao năm cũ và năm mới.
-            </p>
-            <p>Thời gian này là lúc mọi người sum vầy bên gia đình, tưởng nhớ tổ tiên, và gửi những lời chúc tốt đẹp nhất đến người thân yêu.</p>
-        </section>
-
-        <section id="wishes" class="section">
-            <h2>💌 Lời Chúc Tết Hay Nhất</h2>
-            <div class="wish-box">
-                <p id="p1">✨ Chúc năm mới sức khỏe dồi dào, vạn sự như ý!</p>
-                <p class="highlight">🍀 Chúc bạn và gia đình an khang, thịnh vượng, hạnh phúc viên mãn.</p>
-                <p class="highlight">🎉 Năm mới đến, chúc phát tài phát lộc, công danh rạng rỡ!</p>
-            </div>
-        </section>
-
-        <section id="traditions" class="section">
-            <h2>🏮 Phong Tục Tết</h2>
-            <ul>
-                <li>Gói bánh chưng, bánh tét.</li>
-                <li>Trang trí nhà cửa bằng hoa mai, hoa đào.</li>
-                <li>Chúc Tết và lì xì trẻ nhỏ.</li>
-                <li>Thờ cúng tổ tiên, cầu may mắn.</li>
-            </ul>
-        </section>
-    </main>
-
-    <footer id="contact">
-        <p>📞 Liên hệ: <strong>0123 456 789</strong> | ✉️ Email: <strong>tetnguyendan@example.com</strong></p>
-        <p>© 2025 - Thiết kế bởi bạn.</p>
-    </footer>
-</body>
-</html>
