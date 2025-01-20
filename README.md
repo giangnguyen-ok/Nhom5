@@ -249,4 +249,5 @@
     </div>
 
     <p>Giới thiệu bản thân các bạn cho tụi mình biết với nhé hãy <a href="https://giangnguyen-ok.github.io/gioithieubanthan/">click vào đây</a>.</p>
+    <p>Lời chúc Tết 2025 của nhóm 5 đến bạn, hãy <a href="https://giangnguyen-ok.github.io/TET2025.html.io/" title="Xem lời chúc Tết 2025">click vào đây</a>.</p>
 </body>   
