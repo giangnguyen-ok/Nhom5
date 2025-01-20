@@ -8,12 +8,9 @@
             animation: rainbow 3s infinite;
         }
     </style>
-</head>
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-w6s ease-in-out infinite; /* Thêm hiệu ứng chuyển động */
         }
-
         .banner-content p {
             font-size: 1.2rem;
             margin-top: 10px;
@@ -21,7 +18,6 @@
             color: #ffffff; /* Màu chữ trắng */
             animation: fadeIn 10s ease-in-out infinite; /* Thêm hiệu ứng chuyển động cho đoạn văn */
         }
-
         /* Hiệu ứng chuyển động cho tiêu đề */
         @keyframes slideIn {
             0% {
@@ -37,7 +33,6 @@
                 opacity: 0;
             }
         }
-
         /* Hiệu ứng chuyển động cho đoạn văn */
         @keyframes fadeIn {
             0% {
@@ -53,7 +48,6 @@
     </style>
 </head>
 <body>
-
     <!-- Pano đầu trang -->
     <header class="header-banner">
         <div class="banner-content">
@@ -64,13 +58,10 @@
 
 </body>
 </html>
-
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chữ bên trái, Hình ảnh bên phải</title>
-
     <style>
         /* Thiết lập nền trang màu xanh dương nhạt */
         body {
